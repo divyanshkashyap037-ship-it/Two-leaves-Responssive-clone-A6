@@ -221,8 +221,8 @@
 .page4-floating-img img {
   height: 72px;
   width: auto;
-  top: auto;
-  bottom: 0.75rem;
+  top: 1rem;
+  bottom: auto;
   right: 1rem;
 }
 

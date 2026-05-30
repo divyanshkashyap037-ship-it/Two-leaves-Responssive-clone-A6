@@ -826,8 +826,9 @@ nav {
   position: absolute;
   height: 20vh;
   width: 20vw;
-  top: -5%;
-  right: 5%;
+  top: 1.5rem;
+  bottom: auto;
+  right: 1.5rem;
   animation: floating 3s infinite ease-in-out;
 }
 /*page-5*/
